@@ -7,8 +7,8 @@
 ## My Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Echelon101&count_private=true&show_icons=true&title_color=e5502b&theme=dark&bg_color=110a3e,120a2e,120a1e&hide_border=true" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echelon101&title_color=e5502b&theme=dark&layout=compact&bg_color=110a3e,120a2e,120a1e&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Echelon101&count_private=true&show_icons=true&title_color=4e9bc6&theme=dark&bg_color=141b32,0f1324,0a0c19&hide_border=true" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echelon101&title_color=4e9bc6&theme=dark&layout=compact&bg_color=141b32,0f1324,0a0c19&hide_border=true" />
 </p>
 
 
