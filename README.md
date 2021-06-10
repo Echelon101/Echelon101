@@ -7,8 +7,8 @@
 <a href="https://twitter.com/timomrx" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://mastodon.1in1.net/@timo">
-<img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/27?domain=https%3A%2F%2Fmastodon.1in1.net&label=MASTODON&style=for-the-badge" style="margin-bottom: 5px;" />
+<a href="https://mastodon.1in1.net/@timo" target="_blank">
+<img alt="Mastodon" src="https://img.shields.io/badge/mastodon-%23555555.svg?style=for-the-badge&logo=mastodon" style="margin-bottom: 5px;" />
 </>
 
 
